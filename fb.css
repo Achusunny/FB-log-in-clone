@@ -1,0 +1,78 @@
+.header{
+    background-color:#072b75;
+    height: 80px;
+    width:100%;
+}
+body{
+    margin:0;
+    padding: 0;
+}
+.head-cont{
+    color: aliceblue;
+    font-size: 35px;
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+.head-left{
+    padding-top: 30px;
+}
+.head-right{
+    float: right;
+    margin: -50px;
+    margin-right: 21px;
+}
+.butt{
+    background-color: rgb(16, 74, 181);
+    color: aliceblue;
+}
+.col{
+    color: azure;
+    font-size:14px;   
+}
+.forgot{
+    color: rgb(164, 184, 184);
+    font-size:10px; 
+    float: right;
+    margin-right: 155px;
+}
+.img{
+    height: 300px;
+    width: 600px;
+}
+.content{
+    background-color: #e6e9ed;
+    width: 100%;
+    height: 600px;
+}
+.cont-right{
+    float:right;
+    margin-top: -300px;
+    margin-right: 20px;
+}
+.email{
+    width: 336px;
+    height: 25px;
+}
+.hei{
+    height: 25px;
+}
+.check{
+    border-radius: 10%;
+}
+.text{
+    color: rgb(31, 31, 126);
+    float: right;
+    font-size: small;
+}
+.terms{
+    color: dimgrey;
+}
+.button{
+    background-color: rgb(21, 132, 43);
+    color: aliceblue;
+    height: 35px;
+}
+.select{
+    height: 25px;
+}
